@@ -1,0 +1,25 @@
+.header{
+    height: 45px;
+    background-color: #2382c1;
+    color: white;
+}
+.header .header-block-nav > ul > li > a{
+    color: white;
+}
+
+.app .content{
+    padding: 50px 40px 85px 40px;
+}
+.toolbox{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background: #f0f3f6;
+}
+.btn.btn-oval{
+    border-radius: 4px;
+}
+.btn-lg{
+    font-size: 16px;
+}
+
+
